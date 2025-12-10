@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+google-cloud-bigquery
+google-auth # Added for better project ID detection
+gunicorn # Web server needed by Cloud Run
+pytz # Often needed by pandas/zoneinfo
+tzdata # Required by zoneinfo
+db-dtypes

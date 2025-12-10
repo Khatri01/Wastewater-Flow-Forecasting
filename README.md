@@ -1,7 +1,7 @@
 # Wastewater Flow Forecasting
 
 ## Overview
-This repository contains the end-to-end workflow for a IOT-Cloud-machine learning-based wastewater flow prediction system. It includes resources for both **local model training** and **production deployment** using a microservices architecture. 
+This repository contains the end-to-end workflow for a IoT-Cloud-machine learning-based wastewater flow prediction system. It includes resources for both local model training and production deployment using a microservices architecture. 
 
 ## Repository Contents
 
